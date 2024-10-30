@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+D:/3학년 filter=lfs diff=lfs merge=lfs -text
+.vs/CardMiniGame/v17/ipch/f45305abf0f53656.ipch filter=lfs diff=lfs merge=lfs -text
+*.ipch filter=lfs diff=lfs merge=lfs -text
